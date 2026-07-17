@@ -1,0 +1,6 @@
+{
+  "name": "Go Chi",
+  "description": "A minimal Go HTTP API using Chi router, ready to deploy on Podway",
+  "port": 8080,
+  "env": []
+}
